@@ -30,3 +30,7 @@ Smart Lock System with password using STM32 Nucleo board
 6 - You should see an output like that on your screen. Congratulations!!
 
 ![image](https://user-images.githubusercontent.com/74613419/119781559-72e23d00-becb-11eb-9460-cf2db0308e5c.png)
+
+## Wiki Link for more information:
+
+https://github.com/shalan/CSCE4301-WiKi/wiki/G8:-Password-Based-Door-Lock-System
