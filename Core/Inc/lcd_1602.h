@@ -36,7 +36,6 @@
 
 static void lcd_send_4bit(uint8_t data);
 static void lcd_send(int8_t rs,uint8_t data);
-void lcd_cmd(uint8_t command);
 void lcd_data(char c);
 void lcd_init(void);
 void lcd_clr(void);
